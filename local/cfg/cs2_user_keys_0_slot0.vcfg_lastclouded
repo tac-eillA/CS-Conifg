@@ -1,0 +1,11 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"<unbound>"
+		"MWHEELDOWN"		"+jump"
+		"f"		"slot4"
+		"MOUSE3"		"+lookatweapon"
+		"4"		"slot13"
+	}
+}
